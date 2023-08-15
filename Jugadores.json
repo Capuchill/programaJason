@@ -1,0 +1,19 @@
+{
+        "estudiantes": [
+                {
+                        "nombre": "Sarita",
+                        "edad": 2,
+                        "peso": 8
+                },
+                {
+                        "nombre": "Nahomi",
+                        "edad": 5,
+                        "peso": 11
+                },
+                {
+                        "nombre": "Juliana",
+                        "edad": 1,
+                        "peso": 7
+                }
+        ]
+}

@@ -1,0 +1,16 @@
+{
+        "clients": [
+                {
+                        "firstName": "Theo",
+                        "lastName": "rivers",
+                        "age": 36,
+                        "amount": 1.11
+                },
+                {
+                        "firstName": "juan",
+                        "lastName": "jimenez",
+                        "age": 23,
+                        "amount": 1.2
+                }
+        ]
+}
